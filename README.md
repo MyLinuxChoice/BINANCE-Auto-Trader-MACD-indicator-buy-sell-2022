@@ -18,7 +18,7 @@
 ## Configuration
 
 1. [Signup](https://www.binance.com/) for Binance
-2. Go API Center, [Create New](https://www.binance.com/en/my/settings/api-management?ref=10701111) Api Key
+2. Go API Center, [Create New](https://www.binance.com/) Api Key
 
 5. Get an API and Secret Key, insert into `app/config.py`
 
