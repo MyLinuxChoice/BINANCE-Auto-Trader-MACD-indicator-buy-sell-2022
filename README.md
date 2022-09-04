@@ -12,7 +12,7 @@ This is an experimental bot for auto trading the binance.com exchange.
       - range:  Between target two price, buy and sell. (Ex: <= 0.00100 buy - >= 0.00150 sell )
       
 
-![Screenshot](https://github.com/yasinkuyu/binance-trader/blob/master/img/screenshot.png)
+![Screenshot](https://github.com/JDCORPCOMPANY/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png)
 
 ## Configuration
 
