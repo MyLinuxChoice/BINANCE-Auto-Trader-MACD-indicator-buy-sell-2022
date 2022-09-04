@@ -13,7 +13,7 @@
       - range:  Between target two price, buy and sell. (Ex: <= 0.00100 buy - >= 0.00150 sell )
       
 
-![Screenshot](https://github.com/JDCORPCOMPANY/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png)
+![Screenshot]([https://github.com/JDCORPCOMPANY/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png](https://cryptocoinname.com/wp-content/uploads/2022/01/1641497870_maxresdefault-768x432.jpg))
 
 ## Configuration
 
