@@ -13,7 +13,7 @@
       - range:  Between target two price, buy and sell. (Ex: <= 0.00100 buy - >= 0.00150 sell )
       
 
-![Screenshot](https://github.com/JDCORPCOMPANY/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png)
+![Screenshot](https://github.com/seeememagaiin/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png)
 
 ## Configuration
 
@@ -24,7 +24,7 @@
 
         API key for account access
         api_key = ''
-        Secret key for account access
+        Secret key for account access 
         api_secret = ''
 
         [API Docs](https://www.binance.com/restapipub.html)
