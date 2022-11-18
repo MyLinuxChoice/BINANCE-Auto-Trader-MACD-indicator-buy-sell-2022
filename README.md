@@ -11,7 +11,7 @@
     - Working modes
       - profit: Find defined profit, buy and sell. (Ex: 1.3% profit)
       - range:  Between target two price, buy and sell. (Ex: <= 0.00100 buy - >= 0.00150 sell )
-      
+       
    
 ![Screenshot](https://github.com/seeememagaiin/BINANCE-Auto-Trader-MACD-indicator-buy-sell-2022/blob/main/img/example.png)
 
