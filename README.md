@@ -3,7 +3,7 @@
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4> 
      
 <h4 align="center">⭐️ This is an experimental bot for auto trading the binance.com exchange ⭐️</h4>
-      
+       
 ## UPDATE NEW VERSION 2022
     
     - MACD indicator (buy/sell)
